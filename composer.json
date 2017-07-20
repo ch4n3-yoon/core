@@ -6,7 +6,7 @@
     },
     "extra": {
 		"installer-paths": {
-			"core/{$name}/": ["ideacms/ideacms-core"]
+			"core/{$name}/": ["vendor:ideacms"]
 		}
 	}
 }
