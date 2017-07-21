@@ -1,6 +1,7 @@
 {
     "name": "ideacms/ideacms-core",
     "description": "A test",
+    "type": "ideacms-core",
     "require": {
         "composer/installers": "^1.3"
     },
