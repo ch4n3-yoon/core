@@ -3,5 +3,8 @@
     "description": "A test",
     "type": "ideacms-core",
     "require": {
+    },
+    "autoload": {
+        "files": ["functions.php"]
     }
 }
